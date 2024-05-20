@@ -1,0 +1,19 @@
+ jis ke pass this h vo object variable h
+ jis ke pas this nhi h vo local variable h
+
+
+constructor => is a member method of class . it is basically used for initalization of data members .
+it is automatically called when you create a object . it has no return type
+
+method(function) overloading =>
+ access modifier=> nhi h
+
+ Relationship between objects
+     1) Use-A => 
+     2) Has-A => one object depands on other objects.
+                team 
+     3) Is-A => Inheritance =>Reusability
+========================================================================================================================================
+
+
+method overloading => same name but different parameter

@@ -1,0 +1,20 @@
+Dependancy : Nirbharta
+
+1. Local /Project level
+                npm install --save express mysql cors react path
+
+
+2. Gobal Dependancy
+          npm install -g create-react-app
+
+AJAX => async javascript and xml =>for request and response (data)
+
+xml => extention markup language .
+
+babel => it is a transpiler
+
+webpack => localhost
+
+ECMA Script => standard : ES5 , ES6 ,ES7 , ES8  
+
+

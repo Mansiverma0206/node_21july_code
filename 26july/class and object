@@ -1,0 +1,23 @@
+class and object
+
+
+what is class 
+      user defined data type .
+      it is a place where you define your object .
+      it is blueprint of object
+what is object
+      object is a runtime entity .
+======================================================================================================================================
+
+=====>procedure oriented paradigm  : Divide one whole process into multiple subprocess .
+
+object oriented paradigm : system real objects as a programmable object .
+
+objects => features / behaviour
+
+features => fan => color,speed,wings,
+
+behaviours => laugh,smil,sleep,
+
+          data members / member methods
+=======================================================================================================================================
